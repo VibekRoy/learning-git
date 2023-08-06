@@ -7,6 +7,6 @@ int main()
    cout<< p.first<<endl;
 
     pair <int,pair<int,int>> q = {1,{2,3}};
-    cout<<q.second.first;
+    cout<<q.second.second;
    return 0;
 }
