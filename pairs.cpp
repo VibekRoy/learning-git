@@ -8,5 +8,6 @@ int main()
 
     pair <int,pair<int,int>> q = {1,{2,3}};
     cout<<q.second.second;
+    cout<<"git is amazing";
    return 0;
 }
